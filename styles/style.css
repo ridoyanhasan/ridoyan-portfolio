@@ -205,6 +205,7 @@ width: 100%;
 @media screen and (max-width:576px) {
     .header{
         background-image: none;
+        width: 100%;
     }
     nav {
         flex-direction: column;
@@ -243,6 +244,7 @@ width: 100%;
     }
     .about-info-container{
         flex-direction: column;
+        /* padding: 1rem; */
     }
 }
 @media screen ans (min-width:576px) and (max-width:992px) {
